@@ -1,0 +1,16 @@
+{
+  "name": "sunny-cli-templates",
+  "version": "1.0.0",
+  "description": "个人脚手架常用模板",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wxiaosheng/sunny-cli-templates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wxiaosheng/sunny-cli-templates/issues"
+  },
+  "homepage": "https://github.com/Wxiaosheng/sunny-cli-templates#readme"
+}
