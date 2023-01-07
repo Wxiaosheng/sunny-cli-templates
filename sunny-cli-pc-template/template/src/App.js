@@ -1,7 +1,7 @@
 function App() {
   return (
     <div className="App">
-      sunny-cli-pc-template
+      <%? projectName %>___<%? projectVersion %>
     </div>
   );
 }
