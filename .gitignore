@@ -2,3 +2,5 @@ node_modules/
 templates/**/node_modules
 .idea/
 .DS_Store
+*-lock.json
+*-lock.yaml
